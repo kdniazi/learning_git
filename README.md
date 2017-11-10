@@ -1,2 +1,2 @@
 # learning_git
-Learn github 
+Learn github is just learning of git controls.
