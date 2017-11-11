@@ -1,60 +1,15 @@
-<?php
-echo "Git Testing...";
-echo "Very Good";
-echo "I am updating form github";
-echo "this is line 3";
-echo "This is run time changing..";
-echo "Code Update fro VS";
-echo "Her eis stage Changed.";
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Khandad Khan Niazi</title>
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
 
-$dataArray  =   [1,2,3,5,6,7,7] ;
-$dataArray2  =   [1,2,3,5,6,7,7] ;
-echo "this is another stage..";
-
-
-echo "this file updated localy";
-echo "Nice Now Will update from VC2";
-echo "This is new stage 3";
-
-echo "Very happy to now branch updating proprly";
-
-echo "Nice file has been updated again";
-echo "So file has been marged.";
-
-echo "Kia bat hea on Github";
-echo "Kia bat hea kia bat hea..";
-
-echo "This is new update after stach";
-
-   echo "Nice to know, it is updating smothly... very happy";
-
-   echo "Direct pull from git.";
-   echo "pull request remove local changes.";
-   
-echo "Here is anoteh Update..";
-echo "This is anoterh commit.";
-
-
-echo "Nice to know, it is updating smothly... very happy";
-
-
-echo "Direct pull from git.";
-echo "pull request remove local changes.";
-
-echo "Update from local..";
-echo "Direct pull from git.";
-echo "pull request remove local changes.";
-
-echo("Update form dcc");
-
-echo "add this change";
-echo "Add this change from dc";
-echo "Update From GH";
-
-echo "Direct pull from git.";
-echo "pull request remove local changes.";
-echo "Abdullah Robo Boy Start";
-echo("Update form dcc");
-?>
-
-
+<body><h1>Just for testing Git with Web</h1>
+<?php echo "All Cleaned"; ?>
+</body>
+</html>
