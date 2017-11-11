@@ -35,6 +35,7 @@ echo "Nice to know, it is updating smothly... very happy";
 echo "Direct pull from git.";
 echo "pull request remove local changes.";
 
+<<<<<<< Updated upstream
 
 echo "Update from local..";
 echo "Direct pull from git.";
@@ -45,6 +46,11 @@ echo("Update form dcc");
 echo "add this change";
 echo "Add this change from dc";
 echo "Update From GH";
+
+echo "Direct pull from git.";
+echo "pull request remove local changes.";
+echo "Abdullah Robo Boy Start";
+echo("Update form dcc");
 ?>
 
 
