@@ -12,6 +12,6 @@
     echo "this is another stage..";
 
     echo "This is new stage 3";
-
     echo "this file updated localy";
+    echo "Nice Now Will update from VC2";
 ?>
