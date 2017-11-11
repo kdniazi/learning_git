@@ -24,4 +24,8 @@
     echo "Kia bat hea kia bat hea..";
 
     echo "This is new update after stach";
+    
+    echo "This is anoterh commit.";
 ?>
+
+
