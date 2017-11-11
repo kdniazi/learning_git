@@ -31,12 +31,9 @@
 
    echo "Nice to know, it is updating smothly... very happy";
 
-<<<<<<< Updated upstream
-   echo "Direct pull from git.";
-=======
-   echo "pull request remove local changes.";
->>>>>>> Stashed changes
 
+   echo "Direct pull from git.";
+   echo "pull request remove local changes.";
 ?>
 
 
