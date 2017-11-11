@@ -21,4 +21,7 @@
     echo "So file has been marged.";
 
     echo "Kia bat hea on Github";
+    echo "Kia bat hea kia bat hea..";
+
+    echo "This is new update after stach";
 ?>
