@@ -14,4 +14,6 @@
     echo "This is new stage 3";
 
     echo "Very happy to now branch updating proprly";
+
+    echo "Nice file has been updated again";
 ?>
