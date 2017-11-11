@@ -19,4 +19,6 @@
 
     echo "Nice file has been updated again";
     echo "So file has been marged.";
+
+    echo "Kia bat hea on Github";
 ?>
