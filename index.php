@@ -12,4 +12,6 @@
     echo "this is another stage..";
 
     echo "This is new stage 3";
+
+   echo "Nice to know, it is updating smothly... very happy";
 ?>
