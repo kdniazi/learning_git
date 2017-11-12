@@ -8,8 +8,8 @@
 <!-- TemplateBeginEditable name="head" -->
 <!-- TemplateEndEditable -->
 </head>
-
-<body><h1>Just for testing Git with Web</h1>
+<body>
+    <h1>Just for testing Git with Web</h1>
 <?php echo "All Cleaned"; ?>
 </body>
 </html>
